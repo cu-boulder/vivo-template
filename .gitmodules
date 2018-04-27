@@ -4,3 +4,6 @@
 [submodule "Vitro"]
 	path = Vitro
 	url = https://github.com/vivo-project/Vitro
+[submodule "fis-vivo"]
+	path = fis-vivo
+	url = https://delsborg@github.com/cu-boulder/fis-vivo
