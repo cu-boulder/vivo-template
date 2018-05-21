@@ -7,3 +7,6 @@
 [submodule "fis-vivo"]
 	path = fis-vivo
 	url = https://delsborg@github.com/cu-boulder/fis-vivo
+[submodule "vivo-cuboulder"]
+	path = vivo-cuboulder
+	url = https://github.com/cu-boulder/vivo-cuboulder
