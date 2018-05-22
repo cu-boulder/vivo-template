@@ -6,4 +6,3 @@ cd ../Vitro
 git checkout maint-rel-1.9
 cd ../vivo-cuboulder
 git checkout v1.9.3
-
