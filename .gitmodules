@@ -10,3 +10,6 @@
 [submodule "vivo-cuboulder"]
 	path = vivo-cuboulder
 	url = https://github.com/cu-boulder/vivo-cuboulder
+[submodule "facetedsearch"]
+	path = facetedsearch
+	url = https://github.com/cu-boulder/facetedsearch

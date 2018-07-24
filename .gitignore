@@ -1,0 +1,7 @@
+vdata/logs
+vdata/solr
+vdata/tdbModels
+vdata/upgrade
+vdata/uploads
+vdata/rdf
+vdata/runtime.properties
